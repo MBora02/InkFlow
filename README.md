@@ -1,6 +1,6 @@
-# ArticleWebsite
+# InkFlow
 
-ArticleWebsite is a layered web application built with **ASP.NET Core**.  
+InkFlow is a layered article sharing web application built with **ASP.NET Core**.  
 The project follows **Onion Architecture** principles to keep business logic independent from infrastructure and presentation concerns.
 
 The main goal of the project is to provide a clean and maintainable structure while demonstrating modern .NET application practices.
@@ -81,9 +81,6 @@ The project follows **Onion Architecture**.
 ---
 
 ## Notes
-
-- Some features such as image uploads and PDF-related functionality may have known issues.
-- These parts are planned to be improved and stabilized in future updates.
 - Architecture diagrams and screenshots will be added later.
 
 ---
